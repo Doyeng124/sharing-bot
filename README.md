@@ -1,6 +1,6 @@
 # File-sharing-Bot
 
-<a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/DarkRubix"><img src="https://mu-link.herokuapp.com/dl/0/AgADpbExGwsJkFY.jpg"></a>
 
 <a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
