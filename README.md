@@ -4,10 +4,10 @@
   <a href="https://www.python.org">
     <img src="#" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/DarkRubix">
     <img src="https://github.com/DarkRubix/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/DarkRubix">
     &nbsp;<img src="#" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/DarkRubix">
