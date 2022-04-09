@@ -1,26 +1,8 @@
 # File-sharing-Bot
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="#" width ="250">
-  </a>
-  <a href="https://t.me/DarkRubix">
-    <img src="https://github.com/DarkRubix/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
-  <a href="https://t.me/DarkRubix">
-    &nbsp;<img src="#" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/DarkRubix">
-    &nbsp;<img src="#" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/DarkRubix/File-Sharing-Bot/stargazers">
-    <img src="#">
-  </a>
-  <a href="https://github.com/DarkRubix/File-Sharing-Bot/fork">
-    <img src="#">
-  </a>  
-</p>
+<a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
