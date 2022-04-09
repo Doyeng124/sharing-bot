@@ -2,6 +2,8 @@
 
 <a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
+<a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
 
 
 
