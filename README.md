@@ -4,7 +4,13 @@
 
 <a href="https://t.me/DarkRubix"><img src="https://img.shields.io/badge/DarkRubix-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
+<p align="left">
+<a href="https://github.com/DarkRubix"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
 
+<p align="left">
+<a href="https://twitter.com/darkrubix_org?t=SBPqHKq9gSp9tWXospT5KA&s=09"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
