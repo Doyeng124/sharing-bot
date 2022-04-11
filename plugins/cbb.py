@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ Creator : <a href='𝐏𝐑𝐈𝐍𝐂𝐄'>This Person</a>\n○ ON : <code> [© Movies Search Box] </code>\n○ Library : <a href='https://github.com/DarkRubix/File-Sharing-Bot'>DarkRubix</a>\n○ Contact : <a href='https://t.me/ninja_00p'>Ninja</a>\n○ Channel : @DarkRubix\n○ Official Group : @moviessearch_box</b>",
+            text = f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>This Person</a>\n○ Language : <code>Python3</code>\n○ How To Create  : <a href='https://t.me/DarkRubix_Bot?start=Z2V0LTg1MTUxMjkzMDQ2NzQ1'>CLICK HERE</a>\n○ Source Code : <a href='https://github.com/DarkRubix/File-Sharing-Bot'>Click here</a>\n○ Channel : @DarkRubix \n○ Support Group : @DarkRubix_org </b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
